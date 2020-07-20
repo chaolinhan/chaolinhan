@@ -31,4 +31,4 @@ A math student, a photographer and an idle soul
 ### Repos
 
 - [MSc_Project](https://github.com/chaolinhan/MSc_Project) - ABC SMC for a regeneration model as MSc project UoE
-- [Actor_Pattern_PDP](https://github.com/chaolinhan/Actor_Pattern_PDP) - an actor pattern implemented in C only.
+- [Actor_Pattern_PDP](https://github.com/chaolinhan/Actor_Pattern_PDP) - an actor pattern implemented in C only
