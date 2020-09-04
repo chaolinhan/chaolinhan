@@ -24,7 +24,7 @@ A math student, a photographer and an idle soul
 - 👯  I’m looking to collaborate on funny and stupid projects
 - 🤔  I’m looking for further education or challenging job opportunities
 - 💬  ask me about geek ideas
-- 📫  how to reach me: chaolinhan@gmail.com
+- 📫  how to reach me: chaolinhan@outlook.com, chaolinhan@gmail.com
 - ⚡ fun fact: critical thinking is all we intended to develop from a childhood, however after many studpuid things happened you will still find there hardly exist it.
 - 🌚  my blog: https://ltnexe.live/ (Chinese)
 
