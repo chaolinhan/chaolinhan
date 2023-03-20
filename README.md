@@ -4,9 +4,13 @@
 Currently a backend programmer. Previously a math and HPC student.
 
 🔭 I’m currently working in the IT industries
+
 🌱 I’m currently learning to live a good schedule
+
 👯 I’m looking to collaborate on funny and stupid projects
+
 🤔 I’m trying to play homelab
+
 🌚 my blog: https://ltnstudio.xyz/ (Chinese)
 
 Reach me: chaolinhan@gmail.com
