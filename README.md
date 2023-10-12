@@ -3,7 +3,7 @@
 
 Currently a backend programmer. Previously a math and HPC student.
 
-🔭 I’m currently working in the IT industries
+🔭 I’m currently working in the IT industry, specifically data storage
 
 🌱 I’m currently learning to live a good schedule
 
