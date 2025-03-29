@@ -1,9 +1,8 @@
 ### Hi there 👋
-> 美丽啊，向死而活
 
-Currently a backend programmer. Previously a math and HPC student.
+Currently a backend system engineer in data infrastructure industry. Previously a math and HPC student.
 
-🔭 I’m currently working in the IT industry, specifically data storage
+🔭 I’m currently working in the enterprise data storage industry
 
 🌱 I’m currently learning to live a good schedule
 
